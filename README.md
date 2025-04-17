@@ -1,9 +1,9 @@
 # Mini Project
 
 ## 1. Bank Management System
-Description: A Bank Management System project built using a **inked List**.
-Tech Used: C 
-Features:
+Description: A Bank Management System project built using a **Linked List**.
+- Tech Used: C 
+- Features:
   - Account creation
   - Deposit/Withdrawal operations
   - Display account information
